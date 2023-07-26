@@ -106,7 +106,7 @@ Marzban is user-friendly, feature-rich and reliable. It lets you to create diffe
 Run the following command
 
 ```bash
-sudo bash -c "$(curl -sL https://github.com/Gozargah/Marzban-scripts/raw/master/marzban.sh)" @ install
+sudo bash -c "$(curl -sL https://github.com/v2scripts/Marzban-scripts/raw/master/marzban.sh)" @ install
 ```
 
 Once the installation is complete:
